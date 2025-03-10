@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GlobyTalk](https://gloubie.com/)
 
-- 📝 I write my Master thesis on [A Data-processing Framework](https://github.com/conglb/ovd-framework)
+- 📝 I'm currently looking for a Software Developer position.
 
 - 📫 How to reach me **congmb@gmail.com** 
 
